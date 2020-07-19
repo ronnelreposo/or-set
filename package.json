@@ -1,5 +1,5 @@
 {
-  "name": "or-set",
+  "name": "u-orset",
   "version": "1.0.0",
   "description": "Observed Removed Set with Unique Lamport Clock",
   "main": "lib/index.js",
